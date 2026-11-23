@@ -118,7 +118,6 @@ RTL Synthesis| Completed
 Gate-Level Diagram| Generated
 PPA Analysis| Completed
 
-
 10. Acknowledgements
 
 We thank Prof. Ajaykumar Devarapalli for his academic guidance and technical support.
