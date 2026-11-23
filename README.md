@@ -117,8 +117,7 @@ Waveform Generation| Completed
 RTL Synthesis| Completed
 Gate-Level Diagram| Generated
 PPA Analysis| Completed
-Place & Route| Pending
-Final GDSII| Pending
+
 
 10. Acknowledgements
 
