@@ -49,41 +49,47 @@ No.| Module| Function
 
 6. Repository Structure
 
-Digital-Clock-ASIC-RTL-Design/
-│
-├── README.md
-│
-├── 01_Documentation/
-│   ├── Project_Report.pdf
-│   └── RTL_Interface_Agreement.pdf
-│
-├── 02_RTL/
-│   ├── tick_gen.v
-│   ├── seconds_counter.v
-│   ├── minutes_counter.v
-│   ├── hours_counter.v
-│   ├── display_ctrl.v
-│   └── digital_clock_top.v
-│
-├── 03_Testbenches/
-│   ├── tb_tick_gen.v
-│   ├── tb_seconds_counter.v
-│   ├── tb_minutes_counter.v
-│   ├── tb_hours_counter.v
-│   ├── tb_display_ctrl.v
-│   └── tb_digital_clock_top.v
-│
-├── 04_Simulation_Results/
-│   ├── simulator_logs/
-│   └── waveforms/
-│
-└── 05_ASIC_Flow/
-    ├── README.md
-    ├── 01_RTL_Synthesis/
-    ├── 02_PPA_Analysis/
-    ├── 03_Timing_Constraints/
-    └── 04_Physical_Design/
-    |__ 05_Video of ASIC Waveform analysis
+Root Directory: "Digital-Clock-ASIC-RTL-Design/"
+
+README.md
+
+- Main project overview and documentation.
+
+01_Documentation/
+
+- Project_Report.pdf
+- RTL_Interface_Agreement.pdf
+
+02_RTL/
+
+- tick_gen.v
+- seconds_counter.v
+- minutes_counter.v
+- hours_counter.v
+- display_ctrl.v
+- digital_clock_top.v
+
+03_Testbenches/
+
+- tb_tick_gen.v
+- tb_seconds_counter.v
+- tb_minutes_counter.v
+- tb_hours_counter.v
+- tb_display_ctrl.v
+- tb_digital_clock_top.v
+
+04_Simulation_Results/
+
+- simulator_logs/
+- waveforms/
+
+05_ASIC_Flow/
+
+- README.md
+- 01_RTL_Synthesis/
+- 02_PPA_Analysis/
+- 03_Timing_Constraints/
+- 04_Physical_Design/
 
 7. Tools and Software
 
